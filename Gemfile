@@ -66,3 +66,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use Font Awesome rails gem for adding icons
 gem "font-awesome-rails"
+
+# gQuery gem file
+gem 'jquery-rails'
