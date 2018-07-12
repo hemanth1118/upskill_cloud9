@@ -14,8 +14,9 @@
  *= require_self
  */
 
- @import 'bootstrap-sprockets';
+@import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import 'font-awesome';
 
  // Typography Styles
  
@@ -32,7 +33,7 @@ background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, F
 
 }
 
-// Nav Styles
+// Nav Styles (saas,About are called navbars)
 
 .navbar {
   border: none;
